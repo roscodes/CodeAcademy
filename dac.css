@@ -7,6 +7,13 @@ h1 {
     background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
 }
 
+
+span {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
 .subtitle {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 32px;
@@ -24,10 +31,4 @@ h1 {
 
 .paint {
     background-color: skyblue;
-}
-
-span {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
-    color: blue;
 }
