@@ -1,0 +1,132 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+.heading {
+    font-family:'Source Sans 3', 'sans-serif';
+}
+
+.container {
+    border: 20px groove #48486b;
+    padding: 10px;
+    margin: 10px auto;
+    width: 60rem;
+    
+}
+
+.category-heading {
+    font-family:'Source Sans 3', 'sans-serif';
+}
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    display: inline block;
+    width: 50%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 40px;
+}
+
+.sugar-cane {
+    background-color: #F0EDE3;
+    font-family: 'Raleway', 'Merriweather', serif;
+    font-weight: 400;
+}
+
+.scotch {
+    background-color: #FFFCDD;
+    font-family: 'Raleway', 'Merriweather', serif;
+}
+
+.fountain-blue {
+    background-color: #54B0B4;
+    font-family: 'Raleway', 'Merriweather', serif;
+}
+
+.blue-lagoon {
+    background-color: #057087;
+    font-family: 'Raleway', 'Merriweather', serif;
+}
+
+
+.rway {
+    text-decoration: underline;
+    font-family: 'Raleway', 'Merriweather', serif;
+}
+
+.raleway-normal {
+    font-family: 'Raleway', 'Merriweather', serif;
+    font-weight: 400;
+}
+
+.raleway-bold {
+    font-family: 'Raleway', 'Merriweather', serif;
+    font-weight: 700;
+}
+
+.raleway-italics {
+    font-family: 'Raleway', 'Merriweather', serif;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.fsans {
+    text-decoration: underline;
+    font-family: 'Fira Sans', 'sans-serif' ;
+}
+
+.fira-sans-normal {
+    font-family: 'Fira Sans', 'sans-serif';
+}
+
+.fira-sans-bold {
+    font-family: 'Fira Sans', 'sans-serif';
+    font-weight: 700;
+}
+
+.fira-sans-italics {
+    font-family: 'Fira Sans', 'sans-serif';
+    font-weight: 400;
+    font-style: italic;
+}
+
+.ssans {
+    font-family: 'Source Sans 3', 'sans-serif';
+    text-decoration: underline;
+}
+
+.source-sans-normal {
+    font-family: 'Source Sans 3', 'sans-serif';
+    font-weight: 400;
+}
+
+.source-sans-bold {
+    font-family: 'Source Sans 3', 'sans-serif';
+    font-weight: 700;
+}
+
+.source-sans-italics {
+    font-family: 'Source Sans 3', 'sans-serif';
+    font-style: italic;
+    font-weight: 400;
+}
+
+ul {
+    padding-left: 0;
+}
+
+ul li {
+    font-family: 'Fira Sans', 'sans-serif';
+    list-style-position: inside;
+}
+
+.text {
+    font-family: 'Fira Sans', 'sans-serif';
+}
